@@ -1,0 +1,10 @@
+{
+  "name": "HolyCheck",
+  "uuid": "%uuid%",
+  "mainClass": "com.dezc.labycheck.LabyCheck",
+  "description": "Mod to simplify the process of checking players (copying anydesk, time, auto messages, etc.) by dezc",
+  "version": 1,
+  "author": "https://github.com/ver-tuego",
+  "category": 2,
+  "icon": "https://i.imgur.com/LZGEWOh.png"
+}
